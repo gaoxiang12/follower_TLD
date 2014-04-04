@@ -1,0 +1,2 @@
+/usr/bin/ar cr /home/g-xiang/catkin_ws/src/follower/OpenTLD-master/lib/libtld.a  CMakeFiles/tld.dir/TLD.o
+/usr/bin/ranlib /home/g-xiang/catkin_ws/src/follower/OpenTLD-master/lib/libtld.a

@@ -1,0 +1,2 @@
+/usr/bin/ar cr /home/g-xiang/catkin_ws/src/follower/OpenTLD-master/lib/libLKTracker.a  CMakeFiles/LKTracker.dir/LKTracker.o
+/usr/bin/ranlib /home/g-xiang/catkin_ws/src/follower/OpenTLD-master/lib/libLKTracker.a
